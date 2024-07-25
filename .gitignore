@@ -1,0 +1,6 @@
+sdkconfig
+components
+.vscode
+build
+spiffs
+*/*.swp
